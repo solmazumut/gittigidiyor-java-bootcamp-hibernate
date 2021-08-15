@@ -4,4 +4,4 @@
 
 # class diagram
 
-![image](gittigidiyor week1.png)
+![image](gittigidiyor-week1.png)
